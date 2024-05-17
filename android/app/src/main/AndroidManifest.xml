@@ -6,7 +6,7 @@
 
     <application
         android:label="ambuline_navigator"
-        android:name=".Application"
+        android:name=".MainActivity"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
